@@ -1,9 +1,9 @@
 # Template for making compact poster in LaTeX
 
-Below is a poster made with this template that was presented three years.
+Below is a blurry snapshot of a poster made with this template that was presented three years.
 Note that you can change the font from sans serif to something like Arial in the Preamble of the tex file.
 
-<p align="center"><img src="poster.png"></p>
+<p align="center"><img src="poster.png" max-width: 35%; height: auto;></p>
 
 
 This repo contains  a template for a 24 inch by 36 inch poster in the portrait orientation.
