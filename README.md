@@ -28,8 +28,8 @@ I thought it was time to share it.
 
 ## Instructions
 
-- Downloads all of the files (https://github.com/MooersLab/posterInLaTeX.git)
+- Downloads all of the files (git clone https://github.com/MooersLab/posterInLaTeX.git)
 - Swamp the PDF with your image file
-- Change the Title and other text to suit your needs
+- Change the Title and other text in a text editor or on Overleaf to suit your needs
 - Run lualatex to compile
 - Take the resulting PDF to a poster printing service
