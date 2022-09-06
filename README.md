@@ -1,5 +1,8 @@
 # Template for making compact poster in LaTeX
 
+Below is a poster made with this template that was presented three years.
+Note that you can change the font from sans serif to something like Arial in the Preamble of the tex file.
+
 <p align="center"><img src="poster.png"></p>
 
 
