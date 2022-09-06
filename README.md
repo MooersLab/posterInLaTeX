@@ -18,19 +18,19 @@ The image may contain multiple figure panels with or without figure legends.
 I do the positioning of figure panels outside of LaTeX.
 The bottom of the poster has a minimal amount of text, which no one ever concentrates long enough in the dim of the convention hall to read completely. 
 
-The preparation of the figure panels can take several days.
-The assembly of the panels in the PowerPoint slide takes an hour.
-The editing of the text in the tex file takes several hours.
+The preparation of the content for the figure panels may take several days.
+The assembly of the panels in the PowerPoint slide takes 1-2 hours.
+The editing of the text in the tex file takes 1-3 hours.
 After the figure panel preparation, the poster can be be assembled in one afternoon.
 
 My lab has been using this format for posters for at least four years.
 Summer students pick up quickly how to edit the text on Overleaf.
-I thought it was time to share it.
+It was time to share this template.
 
 ## Instructions
 
-- Downloads all of the files (git clone https://github.com/MooersLab/posterInLaTeX.git)
-- Swamp the PDF with your image file
-- Change the Title and other text in a text editor or on Overleaf to suit your needs
-- Run lualatex to compile
-- Take the resulting PDF to a poster printing service
+- Download all of the files (git clone https://github.com/MooersLab/posterInLaTeX.git).
+- Swamp the PDF with your image file.
+- Change the Title and other text in a text editor or on Overleaf to suit your needs.
+- Run lualatex on the tex file in the presence the style (.sty) files to compile.
+- Take the resulting PDF to a poster printing service.
