@@ -1,5 +1,8 @@
 # Template for making compact poster in LaTeX
 
+<p align="center"><img src="poster.png"></p>
+
+
 This repo contains  a template for a 24 inch by 36 inch poster in the portrait orientation.
 The template is written in LaTeX.
 It can be edited on-line at the Overleaf website.
