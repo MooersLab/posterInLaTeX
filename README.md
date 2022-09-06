@@ -25,3 +25,11 @@ After the figure panel preparation, the poster can be be assembled in one aftern
 My lab has been using this format for posters for at least four years.
 Summer students pick up quickly how to edit the text on Overleaf.
 I thought it was time to share it.
+
+## Instructions
+
+- Downloads all of the files ()
+- Swamp the PDF with your image file
+- Change the Title and other text to suit your needs
+- Run lualatex to compile
+- Take the resulting PDF to a poster printing service
