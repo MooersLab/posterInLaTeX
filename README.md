@@ -6,6 +6,7 @@ It can be edited on-line at the Overleaf website.
 It uses the beamer document class and the beamposter package.
 It should be processed with the lualatex compiler.
 I save it as a PDF, put it on a thumb drive, and print it for under \$35 at Office Depot.
+This template saves a lot time and reduces the fuss and mess around preparing a poster.
 
 This small size and portrait orientation accommodates most scientific poster presentation venues.
 It attracts more visitors than average because its small size limits the amount of data that can be presented and thereby reduces the probability of overwhelming the visitor.
