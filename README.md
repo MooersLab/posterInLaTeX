@@ -21,3 +21,7 @@ The preparation of the figure panels can take several days.
 The assembly of the panels in the PowerPoint slide takes an hour.
 The editing of the text in the tex file takes several hours.
 After the figure panel preparation, the poster can be be assembled in one afternoon.
+
+My lab has been using this format for posters for at least five years.
+Summer students pick up quickly how to edit the text on Overleaf.
+I thought it was time to share it.
