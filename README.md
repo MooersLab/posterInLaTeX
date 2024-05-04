@@ -1,3 +1,7 @@
+![Version](https://img.shields.io/static/v1?label=posterInLaTeX&message=0.1&color=brightcolor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 # Template for making compact poster in LaTeX
 
 Below is a blurry snapshot (the actual poster is sharp) of a poster made with this template that was presented three years.
