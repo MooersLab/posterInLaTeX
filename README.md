@@ -26,7 +26,7 @@ The template takes a single 24 x 24-inch image for the central region of the pos
 I usually prepare the image in PowerPoint, Inkscape, or Gimp and save it as a PNG or PDF file.
 The image may contain multiple figure panels with or without figure legends.
 I do the positioning of figure panels outside of LaTeX.
-The bottom of the poster has a minimal amount of text, which no one ever concentrates long enough to read completely in the dim of the convention hall. 
+The bottom of the poster has a minimal amount of text, which no one concentrates long enough to read completely in the convention hall's din. 
 
 The preparation of the content for the figure panels may take several days.
 The assembly of the panels in the PowerPoint slide takes 1-2 hours.
@@ -42,7 +42,7 @@ It was time to share this template.
 - Download all of the files (git clone https://github.com/MooersLab/posterInLaTeX.git).
 - Swamp the PDF with your image file.
 - Change the Title and other text in a text editor or on Overleaf to suit your needs.
-- Run lualatex on the *.tex file in the presence the style (.sty) files to compile.
+- Run lualatex on the *.tex file in the presence of the style (.sty) files to compile.
 - Take the resulting PDF to a poster printing service.
 
 
